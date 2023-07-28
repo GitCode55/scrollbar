@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <title>Scrollbar personalizado - Práticas da Code</title>
+    <meta charset="utf-8">
+    <style style="display: block;">
+        /*Estilização da página*/
+        *{
+            background-color: #f3f3f3;
+            box-sizing: border-box;
+        }
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 120vh;
+            overflow-y: auto;
+        }
+        h1{
+            color: #1BAF41;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            text-align: center;
+            padding: 20px;
+            top: 20%;
+        }
+        /*Estilização da barra de rolagem*/
+        ::-webkit-scrollbar {
+            width: 10px;
+        }
+
+        ::-webkit-scrollbar-track {
+            background-color: #06152A;
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background-color: #1BAF41;
+            border-radius: 30px;
+        }
+
+        ::-webkit-scrollbar-corner {
+          background-color: #06152A;
+        }
+    </style>
+  </head>
+  <body>
+    <h1> Estilizando a scrollbar de uma página </h1>
+  </body>
+</html>
