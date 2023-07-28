@@ -5,7 +5,7 @@
 ### Descrição:
 Este repositório contém um tutorial completo sobre como personalizar a barra de rolagem de uma página web utilizando HTML e CSS. A barra de rolagem personalizada pode adicionar um toque estético atraente ao seu site, melhorando a experiência do usuário.
 
-### Como reproduzir :
+### Como reproduzir:
 1. Clone este repositório em sua máquina.
 2. Abra o arquivo "scrollbar.html" em um navegador de internet.
 3. Interaja com a barra de rolagem para ver a personalização.
@@ -27,7 +27,7 @@ Este projeto é licenciado sob a Licença MIT - veja o arquivo LICENSE.md para m
 ### Description
 This project contains HTML and CSS code for a stylized search bar. The search bar features a transition effect when the user interacts with it, changing its size and shadow. The code is accompanied by comments to facilitate understanding and customization.
 
-### How to reproduce
+### How to reproduce:
 1. Clone this repository to your machine.
 2. Open the "index.html" file in an internet browser.
 3. Interact with the search bar to see the transition effect in action.
